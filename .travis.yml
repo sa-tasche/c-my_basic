@@ -1,3 +1,4 @@
+---
 language: c
 
 compiler:
@@ -5,3 +6,4 @@ compiler:
  - gcc
 
 script: make
+...
